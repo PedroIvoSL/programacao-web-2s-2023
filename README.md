@@ -36,3 +36,8 @@ Aqui você encontrará uma lista de todos os projetos desenvolvidos durante o se
 
 - Pasta: https://github.com/PedroIvoSL/programacao-web-2s-2023/tree/main/atividade6
 - Data de Entrega: 27/09/2023
+
+### Projeto 7: Formulario
+
+- Pasta: https://github.com/PedroIvoSL/programacao-web-2s-2023/tree/main/atividade7
+- Data de Entrega: 04/10/2023
