@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -22,3 +23,29 @@
     </div>
 </body>
 </html>
+=======
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css"> <!-- Assuming Bootstrap is in a 'css' folder -->
+    <title>Dados do Formulário</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Dados do Formulário</h1>
+        <% if (name && address && phoneNumber && appointmentDate) { %>
+            <p>Nome: <%= name %></p>
+            <p>Endereço: <%= address %></p>
+            <p>Telefone: <%= phoneNumber %></p>
+            <p>Data de Agendamento: <%= appointmentDate %></p>
+        <% } else { %>
+            <div class="alert alert-danger" role="alert">
+                Preencha todos os campos no formulário.
+            </div>
+        <% } %>
+    </div>
+</body>
+</html>
+>>>>>>> e722304718205919dcb450425dcfa3a99e980043
