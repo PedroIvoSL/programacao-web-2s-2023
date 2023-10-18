@@ -17,12 +17,12 @@ Aqui você encontrará uma lista de todos os projetos desenvolvidos durante o se
 - Pasta: https://github.com/PedroIvoSL/programacao-web-2s-2023/tree/main/atividade%202
 - Data de Entrega: 22/08/2023
 
-### Projeto 3: funcao_arrow.md e promise.md
+### Projeto 3: Funcao_arrow.md e promise.md
 
 - Pasta: https://github.com/PedroIvoSL/programacao-web-2s-2023/tree/main/atividade3
 - Data de Entrega: 29/08/2023
 
-### Projeto 4: calculadora web
+### Projeto 4: Calculadora web
 
 - Pasta: https://github.com/PedroIvoSL/programacao-web-2s-2023/tree/main/atividade4
 - Data de Entrega: 05/09/2023
