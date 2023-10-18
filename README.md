@@ -41,3 +41,8 @@ Aqui você encontrará uma lista de todos os projetos desenvolvidos durante o se
 
 - Pasta: https://github.com/PedroIvoSL/programacao-web-2s-2023/tree/main/atividade7
 - Data de Entrega: 04/10/2023
+
+### Projeto 8: Calculadora
+
+- Pasta: https://github.com/PedroIvoSL/programacao-web-2s-2023/tree/main/atividade8
+- Data de Entrega: 18/10/2023
