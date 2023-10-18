@@ -1,0 +1,17 @@
+{
+    "name": "calc",
+    "version": "1.0.0",
+    "description": "Calculadora",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No tests yet\""
+    },
+    "keywords": [
+        "node",
+        "javascript",
+        "web"
+    ],
+    "author": "Pedro",
+    "license": "MIT"
+}
