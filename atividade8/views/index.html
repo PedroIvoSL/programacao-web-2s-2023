@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculator</title>
+  <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container mt-5">
+    <h1>Calculator</h1>
+    <form action="/calculate" method="POST">
+      <div class="mb-3">
+        <label for="numA" class="form-label">Number A</label>
+        <input type="number" class="form-control" id="numA" name="numA" required>
+      </div>
+      <div class="mb-3">
+        <label for="numB" class="form-label">Number B</label>
+        <input type="number" class="form-control" id="numB" name="numB" required>
+      </div>
+      <div class="mb-3">
+        <label for="operation" class="form-label">Operation</label>
+        <select class="form-select" id="operation" name="operation">
+          <option value="+" selected>Add</option>
+          <option value="-">Subtract</option>
+          <option value="*">Multiply</option>
+          <option value="/">Divide</option>
+        </select>
+      </div>
+      <button type="submit" class="btn btn-primary">Calculate</button>
+    </form>
+  </div>
+</body>
+</html>
